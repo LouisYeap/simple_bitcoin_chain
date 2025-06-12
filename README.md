@@ -228,6 +228,3 @@ Louis
 - 实现基本的区块链功能
 - 添加工作量证明机制
 - 实现交易处理
-# simple_bitcoin_chain
-# simple_bitcoin_chain
-# simple_bitcoin_chain
